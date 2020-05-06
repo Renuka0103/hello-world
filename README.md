@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Renuka here, I study at Finolex Academy of Management & Technology.
+I live in Ratnagiri, Maharashtra, India.
